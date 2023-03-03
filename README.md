@@ -8,8 +8,9 @@ Repositório dedicado as notas de aulas do curso da alura: PostgreSQL. O curso f
 [Curso Online PostgreSQL | Alura](https://cursos.alura.com.br/course/introducao-postgresql-primeiros-passos)
 
 # Notas de Aula
+[Códigos SQL](https://github.com/RSAmanda/Alura_PostgreSQL/blob/819fa8a04aa62c097df884369363716f7694af85/Notas_de_aulas_alura_postgreSQL.sql)
 
-[Notas de Aula - PostgreSQL](https://www.notion.so/Notas-de-Aula-PostgreSQL-00e72c0530b14116b5148630926f8496)
+[Notas de Aula - PostgreSQL](https://github.com/RSAmanda/Alura_PostgreSQL/blob/819fa8a04aa62c097df884369363716f7694af85/Notas_de_Aula.md)
 
 # Conteúdo por Aula
 
